@@ -3479,7 +3479,6 @@ hr{
 	font-size:14px;
 	margin-bottom:55px;
 	display:inline-block;
-	text-transform:uppercase;
 }
 
 .project-detail-section .upper-box .back-projects .icon{
@@ -3510,7 +3509,6 @@ hr{
 	position:relative;
 	color:#000000;
 	margin-bottom:40px;
-	text-transform:capitalize;
 }
 
 .project-detail-section p{
@@ -3518,7 +3516,6 @@ hr{
 	color:#666666;
 	font-size:18px;
 	margin-bottom:80px;
-	text-transform:capitalize;
 }
 
 .project-detail-section .carousel-box{
