@@ -36,7 +36,7 @@
 
         // Set the recipient email address.
 
-        $recipient = "mailcheck@whizthemes.com";
+        $recipient = "emiliano.barni@estudioalabama.com";
 
         // Set the email subject.
 
@@ -477,17 +477,6 @@
 
                         </tr>
 
-                        
-
-                        <tr>
-
-                            <td align="center" valign="top">
-
-                                <a href="https://hasthemes.com/" target="_blank"><img width="120" src="https://hasthemes.com/wp-content/uploads/2020/01/1.png" alt="HasThemes"></a>
-
-                            </td>
-
-                        </tr>
 
 
 
