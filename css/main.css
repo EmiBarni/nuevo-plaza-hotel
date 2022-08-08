@@ -1816,7 +1816,6 @@ img{
 	transform: scaleY(0);
 	letter-spacing:5px;
 	transform-origin: top;
-	text-transform:uppercase;
 	-webkit-transition: all 1000ms ease;
 	-moz-transition: all 100ms ease;
 	-ms-transition: all 1000ms ease;
