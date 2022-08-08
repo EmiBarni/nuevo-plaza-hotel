@@ -1847,6 +1847,7 @@ img{
 	-ms-transition: all 1000ms ease;
 	-o-transition: all 1000ms ease;
 	transition: all 1000ms ease;
+	letter-spacing:0px;
 }
 
 .banner-section .active .content-boxed .title{
@@ -3131,7 +3132,7 @@ hr{
 
 .page-banner-section h1{
 	font-family: 'Playfair Display', serif;
-	font-size: 75px;
+	font-size: 65px;
 	position:relative;
 	color:#ffffff;
 	font-weight:400;
